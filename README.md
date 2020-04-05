@@ -1,2 +1,2 @@
-# GITHub_poject
+# GITHub_project
 Build Branching Model
